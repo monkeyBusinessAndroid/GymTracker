@@ -1,0 +1,7 @@
+<resources>
+
+    <item name="add_workout_item_menu_item" type="id"/>
+    <item name="gridView" type="id"/>
+    <item name="gallery_item_imageView" type="id"/>
+
+</resources>
