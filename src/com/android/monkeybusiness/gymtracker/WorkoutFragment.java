@@ -64,7 +64,7 @@ public class WorkoutFragment extends Fragment {
 		boolean itemSelected = false;
 		switch (item.getItemId()) {
 		case R.id.add_workout_item_menu_item:
-			Intent intent = new Intent(getActivity(), WorkoutItem.class);
+			Intent intent = new Intent(getActivity(), WorkoutItemActivity.class);
 			startActivity(intent);
 			itemSelected = true;
 			break;
